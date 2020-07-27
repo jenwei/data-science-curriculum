@@ -85,7 +85,7 @@ __q1__ Create a visualization of `df_antibiotics` that helps you to compare the 
 
 The *genus* of a living organism is a human categorization, based on various characteristics of the organism. Since these categories are based on numerous factors, we will tend to see clusters if we visualize data according to relevant variables. We can use these visuals to categorize observations, and to question whether given categories are reasonable!
 
-__q2__ Create a visualization of `df_antibiotics` that helps you to categorize bacteria according to the variables in the data. Document your observations on how how clusters of bacteria in the variables do---or don't---align with their *genus* classification.
+__q2__ Create a visualization of `df_antibiotics` that helps you to categorize bacteria according to the variables in the data. Document your observations on how clusters of bacteria in the variables do---or don't---align with their *genus* classification.
 
 ```{r q2-task}
 ## TASK: Create your visualization
